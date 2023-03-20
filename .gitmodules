@@ -1,0 +1,3 @@
+[submodule "lookerbot"]
+	path = lookerbot
+	url = https://github.com/danielhartnell/lookerbot.git
